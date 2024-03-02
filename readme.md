@@ -1,0 +1,1 @@
+A responsive web page has been built using HTML, CSS, and JavaScript
